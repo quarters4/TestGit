@@ -1,1 +1,2 @@
 add func2
+add func3
