@@ -6,3 +6,4 @@ Code Conclick3
 add func3
 add func4
 add func5
+add test1
